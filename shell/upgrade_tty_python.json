@@ -1,0 +1,10 @@
+[
+    {"send-string":"python3 -c 'import pty; pty.spawn(\"/bin/bash\")'"},
+    {"send-key":"Enter"},
+    {"sleep":"1"},
+    {"send-key":"C-z"},
+    {"send-string":"stty raw -echo ; fg"},
+    {"send-key":"Enter"},
+    {"sleep":"1"},
+    {"send-key":"Enter"}
+]
