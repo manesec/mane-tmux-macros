@@ -1,0 +1,6 @@
+[
+    {"require":"PORT"},
+    {"send-string":"python3 -m http.server "},
+    {"send-from-cmd":"echo $PORT"},
+    {"send-key":"Enter"}
+]

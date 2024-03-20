@@ -1,0 +1,5 @@
+[
+    {"send-from-cmd":"tmux display-message -pt \"$PANE\" -F 'stty columns #{pane_width} rows #{pane_height}'"},
+    {"send-key":"Enter"}
+]
+

@@ -1,0 +1,4 @@
+[
+    {"require":"DIR"},
+    {"run-command":"tmux new-session -d -s mktfileserver \"cd $DIR; python3 /Tools/Tools/Tools4mane/Tools/SimpleHttpFileReceiver.py -l 0.0.0.0 -p 65431\""}
+]
