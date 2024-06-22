@@ -3,6 +3,11 @@ story my macros
 
 Requirement: [tmux-command-macros](https://github.com/manesec/tmux-command-macros)
 
+
+## Note
+
+`./mkt` is all for [maketoolkit](https://github.com/manesec/maketoolkit)
+
 ## Usage
 
 ```bash

