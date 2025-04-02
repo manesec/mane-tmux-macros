@@ -1,0 +1,7 @@
+[
+        {"send-string-b64":"bmV0c2ggZmlyZXdhbGwgc2V0IG9wbW9kZSBkaXNhYmxl"},
+        {"send-key":"Enter"},
+        {"sleep":"1"},
+        {"send-string-b64":"bmV0c2ggYWR2ZmlyZXdhbGwgc2V0IGFsbHByb2ZpbGVzIHN0YXRlIG9mZg=="},
+        {"send-key":"Enter"}
+]
